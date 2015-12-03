@@ -1,0 +1,14 @@
+{
+  "name": "catchup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^0.11.0"
+  },
+  "bin": {
+    "catchup": "lib/index.js"
+  }
+}
