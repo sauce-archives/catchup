@@ -12,6 +12,13 @@ this will be the easiest way for you to get started.
 
 In order to get it running, you'll need [nodejs] installed on your machine.
 
+Once [nodejs] is installed:
+
+```
+npm install -g catchup-sauce
+catchup
+```
+
 ## Demo page used in catchup's tests
 
 http://saucelabs.github.io/catchup/
