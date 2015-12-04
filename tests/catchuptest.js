@@ -1,4 +1,4 @@
-var config = require('./creds.json');
+var creds = require('./creds.json');
 
 var webdriver = require('selenium-webdriver'),
     By = require('selenium-webdriver').By,
