@@ -1,0 +1,9 @@
+{
+  "name": "catchup",
+  "version": "0.0.1",
+  "dependencies": {
+    "wd": "^0.3.12",
+    "selenium-webdriver": "^2.47"
+  }
+}
+
