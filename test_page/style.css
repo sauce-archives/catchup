@@ -1,10 +1,9 @@
 body {
   padding-top: 40px;
   padding-bottom: 40px;
-  background-color: #fff;
-  background-image: ;
+  color: #7f8892;
+  background: #fff url('sauce-logo.png') no-repeat scroll 10px 10px;
 }
-
 .form-signin {
   max-width: 330px;
   padding: 15px;
@@ -43,4 +42,18 @@ body {
   margin-bottom: 10px;
   border-top-left-radius: 0;
   border-top-right-radius: 0;
+}
+.checkbox-label {
+  text-transform: uppercase;
+}
+.btn-primary {
+  background-color: #1395f0;
+  background-image: none;
+  border-color: #f2f2f2;
+  border-radius: 4px;
+}
+.btn-primary:hover {
+  background-color: #0c7ac4;
+  background-image: none;
+  border-color: #f2f2f2;
 }
