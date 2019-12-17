@@ -1,3 +1,6 @@
+> **NOTE:<br/>**
+> This repo is not being maintained anymore
+
 ## What & why ? 
 
 Ketchup is the simplest of sauces. Catchup will show you that using Sauce Labs is as
